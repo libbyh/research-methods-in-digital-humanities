@@ -49,6 +49,8 @@ Semenza, Gregory M. Colón. 2010. [_Graduate Study for the Twenty-First Century:
 
 Underwood, Ted. 2015. “Seven Ways Humanists Are Using Computers to Understand Text.” _The Stone and the Shell_. June 4. https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.
 
+Watts, D. J, and S. H Strogatz. 1998. “Collective Dynamics of ‘small-World’ Networks.” _Nature_ 393 (6684): 440–42. doi:10.1038/30918.
+
 Weng, C. Y., W. T. Chu, and J. L. Wu. 2009. “RoleNet: Movie Analysis from the Perspective of Social Networks.” _IEEE Transactions on Multimedia_ 11 (2): 256–71. doi:10.1109/TMM.2008.2009684.
 
 Zhou, Tony. 2016. “Every Frame a Painting.” Accessed August 9. https://vimeo.com/channels/everyframeapainting.
