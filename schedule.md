@@ -20,8 +20,8 @@ Full citations for all the readings are available on the [reading list](/researc
 |14-Sep|Analyzing written text - *Harry Potter*|- Heilman and Donaldson, 2009<br />- Hunt, 2015||
 |19-Sep|Analyzing written text - *Sherlock Holmes*|Hemphill, 2014
 |21-Sep|Peer review|||
-|26-Sep|Analyzing text||Lab with Carol|
-|28-Sep|Analyzing text||Lab with Carol|
+|26-Sep|Analyzing video|n/a|_Supergirl_ pilot|
+|28-Sep|Analyzing video|- [Polygraph film analysis](http://polygraph.cool/films/)<br />- [_Little Mermaid_ problems](https://www.washingtonpost.com/news/wonk/wp/2016/01/25/researchers-have-discovered-a-major-problem-with-the-little-mermaid-and-other-disney-movies/)<br />- [Every Single Word Spoken](http://everysinglewordspoken.tumblr.com/)<br />- [Someone edited...](http://www.theverge.com/2015/7/9/8920221/tumblr-dylan-marron-representation-race-Hollywood-film)|reviewing data|
 |3-Oct|Making arguments|Section III _The Craft of Research_|Peer review|
 |5-Oct|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)|
 |10-Oct|NO CLASS - FALL BREAK|||
