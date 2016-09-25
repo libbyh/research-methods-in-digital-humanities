@@ -25,6 +25,8 @@ Hoover, David L. 2008. “Quantitative Analysis and Literary Studies.” In _Com
 
 Hunt, Sally. 2015. “[Representations of Gender and Agency in the Harry Potter Series](https://blackboard.iit.edu/bbcswebdav/pid-435058-dt-content-rid-2466659_1/xid-2466659_1).” In _Corpora and Discourse Studies_, edited by Paul Baker and Tony McEnery, 266–84. Palgrave Advances in Language and Linguistics. Palgrave Macmillan UK. http://link.springer.com/chapter/10.1057/9781137431738_13.
 
+Kadushin, Charles. 2012. _Understanding Social Networks: Theories, Concepts, and Findings_. New York: Oxford University Press.
+
 Kirschenbaum, Matthew. 2012. “What Is Digital Humanities and What’s It Doing in English Departments?” In _Debates in the Digital Humanities_. http://dhdebates.gc.cuny.edu/debates/text/38.
 
 Louis, Scott Richard St. 2016. “Big Data and the Search for Balanced Insight in the Digital Humanities: Macroscopic and Microscopic Reading of Citation Strategies in the Encyclopédie of Diderot (and Jaucourt), 1751-1772.” _Digital Literary Studies_ 1 (1): 79–86. doi:10.18113/P8dls1159707.
@@ -32,6 +34,8 @@ Louis, Scott Richard St. 2016. “Big Data and the Search for Balanced Insight i
 McCulloch, Gretchen. 2015. “A Linguist Explains the Grammar of Shipping.” _The Toast_. September 30. http://the-toast.net/2015/09/30/a-linguist-explains-the-grammar-of-shipping/.
 
 McPerson, Tara. 2012. “What Are the Digital Humanities so White? Or Thinking through the Histories of Race and Computation.” In _Debates in the Digital Humanities_. http://dhdebates.gc.cuny.edu/debates/text/29.
+
+Park, Seung-Bo, Kyeong-Jin Oh, and Geun-Sik Jo. 2012. “Social Network Analysis in a Movie Using Character-Net.” _Multimedia Tools and Applications_ 59 (2): 601–27. doi:10.1007/s11042-011-0725-1.
 
 Petré, Peter. 2015. “What Grammar Reveals about Sex and Death: Interdisciplinary Applications of Corpus-Based Linguistics.” _Digital Scholarship in the Humanities_ 30 (3): 371–87. doi:10.1093/llc/fqu011.
 
@@ -44,5 +48,7 @@ Semenza, Gregory M. Colón. 2010. [_Graduate Study for the Twenty-First Century:
 “The Digital Humanities Manifesto 2.0.” 2009. _Digital Humanities Manifesto_. May 29. http://manifesto.humanities.ucla.edu/2009/05/29/the-digital-humanities-manifesto-20/.
 
 Underwood, Ted. 2015. “Seven Ways Humanists Are Using Computers to Understand Text.” _The Stone and the Shell_. June 4. https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.
+
+Weng, C. Y., W. T. Chu, and J. L. Wu. 2009. “RoleNet: Movie Analysis from the Perspective of Social Networks.” _IEEE Transactions on Multimedia_ 11 (2): 256–71. doi:10.1109/TMM.2008.2009684.
 
 Zhou, Tony. 2016. “Every Frame a Painting.” Accessed August 9. https://vimeo.com/channels/everyframeapainting.
