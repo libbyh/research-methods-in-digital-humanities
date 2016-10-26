@@ -18,3 +18,11 @@ Regardless, I would encourage students to pay attention to:
 3. his presentation of rhetorical terms and definitions in his video essay
 
 And then maybe go back and see how the melody and rhythm then emphasizes and masks certain parts of the song.
+
+## Getting Help
+
+Mike is available to help you with your movies:
+
+[mdeanda@hawk.iit.edu](mailto:mdeanda@hawk.iit.edu)
+
+HaT Lab Hours Tuesday 11:30-1:30
