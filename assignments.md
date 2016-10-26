@@ -32,6 +32,7 @@ You'll notice in those examples that sometimes the blog post is actually a video
 | Nov 14 | Project Update |
 | Nov 21 | RQ, Argument, and data summary from one of the readings for the week |
 | Nov 28 | Project Update | 
+| Dec 5 | Semester Reflection |
 
 `*` Technically, it's not every Monday because sometimes we don't have class on Mondays. On those weeks, blog posts are due Wednesday morning before the "first" class of the week.
 
