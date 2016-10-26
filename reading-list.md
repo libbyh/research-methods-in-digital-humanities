@@ -9,9 +9,15 @@ Watch for updates. This list **will** change throughout the term. Mostly, it wil
 ## Readings
 Alves, Daniel. 2014. “Introduction: Digital Methods and Tools for Historical Research.” _International Journal of Humanities and Arts Computing_ 8 (1): 1–12.
 
+Andalibi, Nazanin, Pinar Ozturk, and Andrea Forte. 2017. “Sensitive Self-Disclosures, Responses, and Social Support on Instagram: The Case of #Depression.” In _Proceedings of the ACM Conference on Computer Supported Cooperative Work_. Portland, OR, USA: ACM Press. [http://media.wix.com/ugd/63b293_20d60df8abec4949be458757ab2fc68c.pdf](http://media.wix.com/ugd/63b293_20d60df8abec4949be458757ab2fc68c.pdf).
+
+Booth, Paul. 2013. “The First Time.” In _Fan Phenomena: Doctor Who_, edited by Paul Booth, 72–82. Bristol, UK: Intellect Books.
+
 Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 2008. _The Craft of Research_. 3rd ed. Chicago Guides to Writing, Editing, and Publishing. Chicago: University of Chicago Press.
 
 Burdick, Anne, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp. 2012. _Digital Humanities_. Cambridge, MA: MIT Press.
+
+Bury, Rhiannon. 2008. “Setting David Fisher Straight: Homophobia and Heterosexism in Six Feet Under Online Fan Culture.” _Critical Studies in Television: An International Journal of Television Studies_ 3 (2): 59–79. doi:10.7227/CST.3.2.6.
 
 Gold, Matthew K., ed. 2012. _Debates in the Digital Humanities_. Minneapolis; London: University of Minnesota Press.
 
@@ -29,11 +35,15 @@ Kadushin, Charles. 2012. _Understanding Social Networks: Theories, Concepts, and
 
 Kirschenbaum, Matthew. 2012. “What Is Digital Humanities and What’s It Doing in English Departments?” In _Debates in the Digital Humanities_. http://dhdebates.gc.cuny.edu/debates/text/38.
 
+Kocurek, Carly A. 2012. “The Agony and the Exidy: A History of Video Game Violence and the Legacy of Death Race.” Game Studies 12 (1). [http://gamestudies.org/1201/articles/carly_kocurek](http://gamestudies.org/1201/articles/carly_kocurek).
+
 Louis, Scott Richard St. 2016. “Big Data and the Search for Balanced Insight in the Digital Humanities: Macroscopic and Microscopic Reading of Citation Strategies in the Encyclopédie of Diderot (and Jaucourt), 1751-1772.” _Digital Literary Studies_ 1 (1): 79–86. doi:10.18113/P8dls1159707.
 
 McCulloch, Gretchen. 2015. “A Linguist Explains the Grammar of Shipping.” _The Toast_. September 30. http://the-toast.net/2015/09/30/a-linguist-explains-the-grammar-of-shipping/.
 
 McPerson, Tara. 2012. “What Are the Digital Humanities so White? Or Thinking through the Histories of Race and Computation.” In _Debates in the Digital Humanities_. http://dhdebates.gc.cuny.edu/debates/text/29.
+
+Nakamura, Lisa. 2009. “Don’t Hate the Player, Hate the Game: The Racialization of Labor in World of Warcraft.” _Critical Studies in Media Communication_ 26 (2): 128–44. doi:10.1080/15295030902860252.
 
 Park, Seung-Bo, Kyeong-Jin Oh, and Geun-Sik Jo. 2012. “Social Network Analysis in a Movie Using Character-Net.” _Multimedia Tools and Applications_ 59 (2): 601–27. doi:10.1007/s11042-011-0725-1.
 

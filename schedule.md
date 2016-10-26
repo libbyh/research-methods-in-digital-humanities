@@ -30,13 +30,13 @@ Full citations for all the readings are available on the [reading list](/researc
 |19-Oct|Project planning ||Peer review|
 |24-Oct|Making arguments|Section III _The Craft of Research_|Peer review|
 |26-Oct|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)|
-|31-Oct||||
-|2-Nov||||
-|7-Nov||||
-|9-Nov||||
-|14-Nov||||
-|16-Nov||||
-|21-Nov||||
+|31-Oct|Getting Twitter Data|- [Twitter Goggles](https://github.com/libbyh/TwitterGoggles)<br />- [Twitter User Collector](https://github.com/casmlab/twitter_user_collector)<br />[Netlytic](https://netlytic.org/)<br />- [Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi)||
+|2-Nov|Analyzing Text with Python|- [Useful Python Scripts for Texts](https://github.com/libbyh/upst)<br />- [Google Charts API](https://developers.google.com/chart/)||
+|7-Nov|Reading DH studies - Games|- Nakamura 2013<br />- Kocurek 2012||
+|9-Nov|Reading DH studies - Images|- Howard 2012<br />- Andalibi, Ozturk, and Forte 2017||
+|14-Nov|Making Videos with iMovie||Mike D. tutorial|
+|16-Nov|Finding and Evaluating Sources||Galvin Library staff|
+|21-Nov|Reading DH studies - TV|- Bury 2008<br />- Booth 2013||
 |23-Nov|NO CLASS - THANKSGIVING|||
 |28-Nov|Working Day|n/a|Peer review|
 |30-Nov|Working Day|n/a|Peer review|
