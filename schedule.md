@@ -40,6 +40,3 @@ Full citations for all the readings are available on the [reading list](/researc
 |23-Nov|NO CLASS - THANKSGIVING|||
 |28-Nov|Working Day|n/a|Peer review|
 |30-Nov|Working Day|n/a|Peer review|
-
-# To Be Scheduled
-Making videos | -[iMovie tutorial](https://www.ischool.utexas.edu/technology/tutorials/graphics/imovie/1create.html) | Demo with Mike D. |
