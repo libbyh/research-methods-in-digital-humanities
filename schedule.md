@@ -21,14 +21,14 @@ Full citations for all the readings are available on the [reading list](/researc
 |19-Sep|Analyzing written text - *Sherlock Holmes*|Hemphill, 2014
 |21-Sep|Peer review|||
 |26-Sep|Analyzing video|- Park, Oh, and Jo 2012<br />- Watts and Strogatz 1998<br />- Weng, Chu, and Wu 2009<br />|_Once_ pilot|
-|28-Sep|Analyzing video|- [Polygraph film analysis](http://polygraph.cool/films/)<br />- [_Little Mermaid_ problems](https://www.washingtonpost.com/news/wonk/wp/2016/01/25/researchers-have-discovered-a-major-problem-with-the-little-mermaid-and-other-disney-movies/)<br />- [Every Single Word Spoken](http://everysinglewordspoken.tumblr.com/)<br />- [Someone edited...](http://www.theverge.com/2015/7/9/8920221/tumblr-dylan-marron-representation-race-Hollywood-film)|_Supergirl_ pilot|
-|3-Oct|Making videos|-[iMovie tutorial](https://www.ischool.utexas.edu/technology/tutorials/graphics/imovie/1create.html)|Demo with Mike D.|
-|5-Oct|Making videso|n/a|Practice with Mike D.|
+|28-Sep|Analyzing video||_Once_ pilot|
+|3-Oct|Overview of Social Networks|||
+|5-Oct|Analyzing video|- [Polygraph film analysis](http://polygraph.cool/films/)<br />- [_Little Mermaid_ problems](https://www.washingtonpost.com/news/wonk/wp/2016/01/25/researchers-have-discovered-a-major-problem-with-the-little-mermaid-and-other-disney-movies/)<br />- [Every Single Word Spoken](http://everysinglewordspoken.tumblr.com/)<br />- [Someone edited...](http://www.theverge.com/2015/7/9/8920221/tumblr-dylan-marron-representation-race-Hollywood-film)|_Supergirl_ pilot|
 |10-Oct|NO CLASS - FALL BREAK|||
-|12-Oct|Overview of social networks|- Kadushin 2012 ch 1-4 ||
-|17-Oct|Overview of social networks|n/a||
+|12-Oct|- _Supergirl_ data review<br/> - Planning semester projects|||
+|17-Oct|Overview of social networks|- Kadushin 2012 ch 1-4||
 |19-Oct|Project planning ||Peer review|
-|24-Oct|Making arguments|Section III _The Craft of Research_|Peer review|
+|24-Oct|Making arguments|Section III _The Craft of Research_||
 |26-Oct|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)|
 |31-Oct|Getting Twitter Data|- [Twitter Goggles](https://github.com/libbyh/TwitterGoggles)<br />- [Twitter User Collector](https://github.com/casmlab/twitter_user_collector)<br />[Netlytic](https://netlytic.org/)<br />- [Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi)||
 |2-Nov|Analyzing Text with Python|- [Useful Python Scripts for Texts](https://github.com/libbyh/upst)<br />- [Google Charts API](https://developers.google.com/chart/)||
@@ -40,3 +40,6 @@ Full citations for all the readings are available on the [reading list](/researc
 |23-Nov|NO CLASS - THANKSGIVING|||
 |28-Nov|Working Day|n/a|Peer review|
 |30-Nov|Working Day|n/a|Peer review|
+
+# To Be Scheduled
+Making videos | -[iMovie tutorial](https://www.ischool.utexas.edu/technology/tutorials/graphics/imovie/1create.html) | Demo with Mike D. |
