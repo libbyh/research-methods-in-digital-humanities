@@ -23,6 +23,16 @@ Your blog posts should be posted every<sup>*</sup> Monday morning so that your c
 
 You'll notice in those examples that sometimes the blog post is actually a video that explains something, sometimes it's a tutorial about how to use a tool, sometimes it's a explanation of a researcher's process. All of these are fair game for you as well. Think of your blog post as a container for an artifact that combines prose, video, images, links, etc. to demonstrate your new knowledge. Combining these media is one way to demonstrate your skills of [appropriation]({{ site.baseurl }}/index#cultural-competencies), for instance. All blog posts demonstrate [networking]({{ site.baseurl }}/index#cultural-competencies) skills.
 
+## Schedule for Second Half Blog Posts
+
+|Date|Topic|
+|---|---|
+| Oct 31 | Your project's argument |
+| Nov 7 | RQ, Argument, and data summary from one of the readings for the week |
+| Nov 14 | Project Update |
+| Nov 21 | RQ, Argument, and data summary from one of the readings for the week |
+| Nov 28 | Project Update | 
+
 `*` Technically, it's not every Monday because sometimes we don't have class on Mondays. On those weeks, blog posts are due Wednesday morning before the "first" class of the week.
 
 # Class Discussions
