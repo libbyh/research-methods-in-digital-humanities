@@ -6,7 +6,7 @@ permalink: /schedule/
 
 Note: the schedule will change. Make sure to check back often.
 
-Full citations for all the readings are available on the [reading list](/research-methods-in-digital-humanities/reading-list/).
+Full citations for all the readings are available on the [reading list]({{site.baseurl}}/reading-list/).
 
 |Date|Topic|Before Class|In Class|
 |---|---|---|---|
@@ -35,7 +35,7 @@ Full citations for all the readings are available on the [reading list](/researc
 |7-Nov|Reading DH studies - Games|- Nakamura 2013<br />- Kocurek 2012||
 |9-Nov|Reading DH studies - Images|- Howard 2012<br />- Andalibi, Ozturk, and Forte 2017||
 |14-Nov|<strong>IN THE LLC AT THE LIBRARY</strong><br />Finding and Evaluating Sources||Galvin Library staff|
-|16-Nov|Making Videos with iMovie|- [Rhetorical Analysis of Taylor Swift's *Blank Space* Video](https://www.youtube.com/watch?v=3bgL8y3xHYo)<br />- [What to Watch For]({{site.url}}/)|Mike D. tutorial|
+|16-Nov|Making Videos with iMovie|- [Rhetorical Analysis of Taylor Swift's *Blank Space* Video](https://www.youtube.com/watch?v=3bgL8y3xHYo)<br />- [What to Watch For]({{site.baseurl}}/blog/notes/2016/10/26/what-to-watch-for.html)|Mike D. tutorial|
 |21-Nov|Reading DH studies - TV|- Bury 2008<br />- Booth 2013||
 |23-Nov|NO CLASS - THANKSGIVING|||
 |28-Nov|Working Day|n/a|Peer review|
