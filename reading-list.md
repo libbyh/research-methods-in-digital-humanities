@@ -29,6 +29,8 @@ Hemphill, Libby. 2014. “Introducing Text Analytics to Undergraduates.” _Libb
 
 Hoover, David L. 2008. “Quantitative Analysis and Literary Studies.” In _Companion to Digital Literary Studies_, Hardcover. Blackwell Companions to Literature and Culture. Oxford: Blackwell Publishing Professional. http://www.digitalhumanities.org/companionDLS/.
 
+Howard, K. Shannon. 2012. “Critical Essay--Everything Old Is New Again: A Barthesian Analysis of Tumblr.” _Technoculture: An Online Journal of Technology in Society_ 2.
+
 Hunt, Sally. 2015. “[Representations of Gender and Agency in the Harry Potter Series](https://blackboard.iit.edu/bbcswebdav/pid-435058-dt-content-rid-2466659_1/xid-2466659_1).” In _Corpora and Discourse Studies_, edited by Paul Baker and Tony McEnery, 266–84. Palgrave Advances in Language and Linguistics. Palgrave Macmillan UK. http://link.springer.com/chapter/10.1057/9781137431738_13.
 
 Kadushin, Charles. 2012. _Understanding Social Networks: Theories, Concepts, and Findings_. New York: Oxford University Press.
