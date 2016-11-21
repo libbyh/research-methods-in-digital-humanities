@@ -11,13 +11,13 @@ Alves, Daniel. 2014. “Introduction: Digital Methods and Tools for Historical R
 
 Andalibi, Nazanin, Pinar Ozturk, and Andrea Forte. 2017. “Sensitive Self-Disclosures, Responses, and Social Support on Instagram: The Case of #Depression.” In _Proceedings of the ACM Conference on Computer Supported Cooperative Work_. Portland, OR, USA: ACM Press. [http://media.wix.com/ugd/63b293_20d60df8abec4949be458757ab2fc68c.pdf](http://media.wix.com/ugd/63b293_20d60df8abec4949be458757ab2fc68c.pdf).
 
-Booth, Paul. 2013. “The First Time.” In _Fan Phenomena: Doctor Who_, edited by Paul Booth, 72–82. Bristol, UK: Intellect Books.
+Booth, Paul. 2013. “[The First Time](https://blackboard.iit.edu/bbcswebdav/pid-446631-dt-content-rid-2690310_1/xid-2690310_1).” In _Fan Phenomena: Doctor Who_, edited by Paul Booth, 72–82. Bristol, UK: Intellect Books.
 
 Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 2008. _The Craft of Research_. 3rd ed. Chicago Guides to Writing, Editing, and Publishing. Chicago: University of Chicago Press.
 
 Burdick, Anne, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp. 2012. _Digital Humanities_. Cambridge, MA: MIT Press.
 
-Bury, Rhiannon. 2008. “Setting David Fisher Straight: Homophobia and Heterosexism in Six Feet Under Online Fan Culture.” _Critical Studies in Television: An International Journal of Television Studies_ 3 (2): 59–79. doi:10.7227/CST.3.2.6.
+Bury, Rhiannon. 2008. “[Setting David Fisher Straight: Homophobia and Heterosexism in Six Feet Under Online Fan Culture](https://blackboard.iit.edu/bbcswebdav/pid-464432-dt-content-rid-2789760_1/xid-2789760_1?target=blank).” _Critical Studies in Television: An International Journal of Television Studies_ 3 (2): 59–79. doi:10.7227/CST.3.2.6.
 
 Gold, Matthew K., ed. 2012. _Debates in the Digital Humanities_. Minneapolis; London: University of Minnesota Press.
 
